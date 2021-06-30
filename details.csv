@@ -1,4 +1,4 @@
-File Name ,Shape,Size/Radius,Depth,Target,SoilDC,SoilConductivity,SoilType
+FileName,Shape,Size/Radius,Depth,Target,SoilDC,SoilConductivity,SoilType
 file0001_.in,Cylinder,0.013,0.172,aluminium,10,0.002,Dry_sandy_flat_(coastal)
 file0002_.in,Cylinder,0.018,0.239,aluminium,10,0.002,Dry_sandy_flat_(coastal)
 file0003_.in,Cylinder,0.01,0.237,aluminium,10,0.002,Dry_sandy_flat_(coastal)
